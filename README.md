@@ -1,6 +1,6 @@
 # codehub.github.io ![](https://still-brushlands-82734.herokuapp.com/countercheck)
 [![badge](https://glitch-image.vercel.app/api?text=Enter%20the%20Matrix)](https://glitch-image.vercel.app/api?text=Enter%20the%20Matrix)
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?rusevrosen=estruyf&[repo](https://github.com/rusevrosen/codehub.github.io)=github-visitors-badge&countColor=%237B1E7A)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?rusevrosen=willianrod&layout=compact)](https://github.com/rusevrosen/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusevrosen&show_icons=true&theme=radical)
 ![Quote](https://github.com/rusevrosen/codehub.github.io/blob/main/Quote_Albert_Einstein.jpg)
