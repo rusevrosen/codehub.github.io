@@ -1,1 +1,1 @@
-Later will be add info here.
+This folder contains explanations for various sorting algorithms.
